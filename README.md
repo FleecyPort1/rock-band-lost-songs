@@ -13,10 +13,15 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 * Santana - Black Magic Woman/Gypsy Queen
 * Traffic - Feelin' Alright
 
-## Lost Rock Band 1-2 DLC:
+## Lost Rock Band 1-2 DLC (Thank you to Fleecy and r0bd0g for helping out with fixing up these songs):
+* Faith No More - We Care a Lot (Cover)
 * Indochine - L'Aventurier
 * Metallica - Fuel
 * Metallica - King Nothing
+* Nirvana - Come As You Are (Cover)
+* The Rolling Stones - Brown Sugar (Cover)
+* The Who - Behind Blue Eyes (Cover)
+* The Who - Pinball Wizard (RB1 version)
 
 ## Lost Rock Band Network 1.0:
 * Coalmine - Canary
