@@ -97,3 +97,7 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 * Vallejo - Gone
 * Various Artists - Rock Band Network Megamix 02 (Recreation by Bakartridge)
 * The Worshyp - Left for Dead
+
+## Lost Customs:
+* The Lonely Island - I'm on a Boat (ft. T. Pain)
+* Taylor Swift - Shake It Off
