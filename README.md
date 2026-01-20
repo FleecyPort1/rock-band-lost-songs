@@ -102,15 +102,29 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 * Against Me! - The Ocean
 * Avenged Sevenfold - Desecrate Through Reverence
 * Avenged Sevenfold - Streets
+* Dan Salvato - Sayo-nara
+* Dan Salvato - Your Reality
 * Ice Cube - Today Was a Good Day
 * John Lennon - Stand by Me
 * Kanye West - Lift Yourself
 * Kanye West - Stronger
 * Kanye West & Lil Pump - I Love It (ft. Adele Givens)
 * Lon - Ochame Kinou
-* The Lonely Island - I'm on a Boat (ft. T. Pain) (Rock Band 2 custom)
+* The Lonely Island - I'm on a Boat (ft. T. Pain) (Rock Band 2 version also available)
 * Michael Jackson - Black or White
+* Nobuo Uematsu - Advent: One-Winged Angel
+* The Pretenders - Brass in Pocket (Original Version)
 * Queen - Yeah
+* Raekwon - Guillotine (Swordz)
+* Ramones - Pinhead
+* The Shaggs - My Pal Foot Foot
+* Starbomb - Luigis Ballad
 * Talk Talk - It's My Life
+* Taylor Swift - Red
 * Taylor Swift - Shake It Off
+* Three 6 Mafia - Sippin' on Some Syrup
+* TLC - No Scrubs
 * TRSOLPBBWPSAGASOASS songs
+* UTAU - Nyanyanyanyanyanyanya!
+* Wheatus - I Am What I Is
+* Wheatus - Lemonade
