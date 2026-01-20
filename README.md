@@ -99,5 +99,18 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 * The Worshyp - Left for Dead
 
 ## Lost Customs:
-* The Lonely Island - I'm on a Boat (ft. T. Pain)
+* Against Me! - The Ocean
+* Avenged Sevenfold - Desecrate Through Reverence
+* Avenged Sevenfold - Streets
+* Ice Cube - Today Was a Good Day
+* John Lennon - Stand by Me
+* Kanye West - Lift Yourself
+* Kanye West - Stronger
+* Kanye West & Lil Pump - I Love It (ft. Adele Givens)
+* Lon - Ochame Kinou
+* The Lonely Island - I'm on a Boat (ft. T. Pain) (Rock Band 2 custom)
+* Michael Jackson - Black or White
+* Queen - Yeah
+* Talk Talk - It's My Life
 * Taylor Swift - Shake It Off
+* TRSOLPBBWPSAGASOASS songs
