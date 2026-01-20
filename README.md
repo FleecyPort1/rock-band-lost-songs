@@ -102,29 +102,49 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 * Against Me! - The Ocean
 * Avenged Sevenfold - Desecrate Through Reverence
 * Avenged Sevenfold - Streets
+* The Brady Bunch - It's a Sunshine Day
+* Chic - Good Times
+* Cream - Strange Brew
 * Dan Salvato - Sayo-nara
 * Dan Salvato - Your Reality
+* David Glen Eisley - Sweet Victory
+* Everything I Regret - Dead Server Song
+* Foghat - Slow Ride
+* Frawley - Hard Boy
+* The F-Ups - Lazy Generation
+* Guns N' Roses - Shadow of Your Love
 * Ice Cube - Today Was a Good Day
+* Israel "IZ" Kamakawiwo'ole - Somewhere Over the Rainbow
 * John Lennon - Stand by Me
 * Kanye West - Lift Yourself
 * Kanye West - Stronger
 * Kanye West & Lil Pump - I Love It (ft. Adele Givens)
 * Lon - Ochame Kinou
 * The Lonely Island - I'm on a Boat (ft. T. Pain) (Rock Band 2 version also available)
+* Meshuggah - Future Breed Machine
 * Michael Jackson - Black or White
 * Nobuo Uematsu - Advent: One-Winged Angel
 * The Pretenders - Brass in Pocket (Original Version)
 * Queen - Yeah
 * Raekwon - Guillotine (Swordz)
+* Ram Jam - Black Betty '95
+* Ram Jam - Ram Jam Thank You Mam
 * Ramones - Pinhead
+* Rolf - That's My Horse
 * The Shaggs - My Pal Foot Foot
+* Slayer - Every Slayer Song Ever
+* Slayer - Raining Blood (Live on The Tonight Show)
 * Starbomb - Luigis Ballad
+* Stellure - Snowbound Overdriver
+* The Sugarhill Gang - Rapper's Delight
 * Talk Talk - It's My Life
 * Taylor Swift - Red
 * Taylor Swift - Shake It Off
 * Three 6 Mafia - Sippin' on Some Syrup
 * TLC - No Scrubs
 * TRSOLPBBWPSAGASOASS songs
+* Tsutomu Ogura, Harumi Ueko - Intro Theme (Ronaldinho Soccer 64 Version)
 * UTAU - Nyanyanyanyanyanyanya!
+* VICKEBLANKA - Lucky Ending
 * Wheatus - I Am What I Is
 * Wheatus - Lemonade
