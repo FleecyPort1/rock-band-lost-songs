@@ -99,6 +99,7 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 * The Worshyp - Left for Dead
 
 ## Lost Customs:
+* 10 Year Old Nolan - Jingle for 9 Fruits
 * Against Me! - The Ocean
 * Avenged Sevenfold - Desecrate Through Reverence
 * Avenged Sevenfold - Streets
@@ -108,6 +109,7 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 * Dan Salvato - Sayo-nara
 * Dan Salvato - Your Reality
 * David Glen Eisley - Sweet Victory
+* Diana Ross - I'm Coming Out
 * Everything I Regret - Dead Server Song
 * Foghat - Slow Ride
 * Frawley - Hard Boy
@@ -116,6 +118,11 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 * Ice Cube - Today Was a Good Day
 * Israel "IZ" Kamakawiwo'ole - Somewhere Over the Rainbow
 * John Lennon - Stand by Me
+* Jonathan Coulton - All This Time
+* Jonathan Coulton - I Feel Fantastic
+* Jonathan Coulton - Solid State
+* Jonathan Coulton - Tiny State
+* Jonathan Coulton - Wake Up
 * Kanye West - Lift Yourself
 * Kanye West - Stronger
 * Kanye West & Lil Pump - I Love It (ft. Adele Givens)
@@ -123,6 +130,7 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 * The Lonely Island - I'm on a Boat (ft. T. Pain) (Rock Band 2 version also available)
 * Meshuggah - Future Breed Machine
 * Michael Jackson - Black or White
+* Mr. Wibblespoon - Bill Clinton Has Been to My House (ft. Rob Scallon)
 * Nobuo Uematsu - Advent: One-Winged Angel
 * The Pretenders - Brass in Pocket (Original Version)
 * Queen - Yeah
@@ -130,6 +138,7 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 * Ram Jam - Black Betty '95
 * Ram Jam - Ram Jam Thank You Mam
 * Ramones - Pinhead
+* Rob Scallon - Deaf Metal
 * Rolf - That's My Horse
 * The Shaggs - My Pal Foot Foot
 * Slayer - Every Slayer Song Ever
@@ -148,3 +157,4 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 * VICKEBLANKA - Lucky Ending
 * Wheatus - I Am What I Is
 * Wheatus - Lemonade
+* Yumiko Kanki - Mute City
