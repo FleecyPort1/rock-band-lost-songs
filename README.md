@@ -101,8 +101,15 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 ## Lost Customs:
 * 10 Year Old Nolan - Jingle for 9 Fruits
 * Against Me! - The Ocean
+* Ailsean - Joe Cam Stole My Bike
+* Andrew Anthony - EA Sports - It's In the Game
 * Avenged Sevenfold - Desecrate Through Reverence
 * Avenged Sevenfold - Streets
+* Baqslash - Rip It Up
+* Batta - Chase
+* Bill Haley and His Comets - Rock Around the Clock
+* Blake Shelton - Boys 'Round Here
+* Bloodhound Gang - Foxtrot Uniform Charlie Kilo
 * The Brady Bunch - It's a Sunshine Day
 * Chic - Good Times
 * Cream - Strange Brew
@@ -110,6 +117,8 @@ Welcome to the Rock Band Lost Songs repo. This repo contains lost Rock Band Netw
 * Dan Salvato - Your Reality
 * David Glen Eisley - Sweet Victory
 * Diana Ross - I'm Coming Out
+* Ed Sheeran - Castle on the Hill
+* Evanescence - My Immortal
 * Everything I Regret - Dead Server Song
 * Foghat - Slow Ride
 * Frawley - Hard Boy
